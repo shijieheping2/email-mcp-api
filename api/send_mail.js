@@ -1,3 +1,4 @@
+export const runtime = 'nodejs';
 const nodemailer = require('nodemailer');
 
 module.exports = async (req, res) =>{
